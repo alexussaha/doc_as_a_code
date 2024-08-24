@@ -112,7 +112,7 @@ image::images/Roadmap.png[Roadmap проекта]
 .Архитектура системы
 
 Архитектура системы представлена в файле:
-[Архитектура](diagrams/SA_TL_ARCH.archimate)
+link:diagrams\SA_TL_ARCH.archimate[SA_TL_ARCH.archimate]
 
 .Краткое описание
 
